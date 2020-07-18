@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "扫雷", "扫雷\扫雷.vbproj", "{65EC677C-BC99-4313-827E-31C7699EFEFC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{84594CEA-95CA-4592-A694-3C7CDF92D5EE}"
+	ProjectSection(SolutionItems) = preProject
+		..\CorePanel\CorePanel.sln = ..\CorePanel\CorePanel.sln
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65EC677C-BC99-4313-827E-31C7699EFEFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65EC677C-BC99-4313-827E-31C7699EFEFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65EC677C-BC99-4313-827E-31C7699EFEFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65EC677C-BC99-4313-827E-31C7699EFEFC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
